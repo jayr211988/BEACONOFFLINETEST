@@ -1,0 +1,27 @@
+		/*@font-face {
+			font-family: 'Roboto';
+			src: url('https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2') format('woff2'),local('Roboto'), local('Roboto-Regular');
+			font-family: 'SFDNDisplay';
+			src: url("app/util/font/System_San_Francisco_Display_Regular.ttf")
+		}*/
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+		}
+		
+		body {
+			font-family: 'Roboto', 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;
+			background-color: #fff;
+			font-size: 14px;
+			overflow-x: auto;
+		}
+
+		input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+            transition: background-color 5000s ease-in-out 0s, color 5000s ease-in-out 0s;
+            transition-delay: background-color 5000s, color 5000s;
+		}
+
+		input:disabled, div[disabled] div:first-child div:nth-child(2){
+			color: #454b57 !important;
+		}

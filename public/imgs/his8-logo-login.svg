@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="181px" height="55px" viewBox="0 0 181 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>his8-logo-login</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-Page-3" transform="translate(-570.000000, -683.000000)">
+            <g id="his8-logo-login" transform="translate(570.000000, 681.000000)">
+                <g id="Group-2" transform="translate(0.000000, 8.000000)">
+                    <g id="Group">
+                        <ellipse id="Oval-2" fill="#FFFFFF" cx="21.3277515" cy="18.5" rx="18.2307602" ry="18.5"></ellipse>
+                        <ellipse id="Oval" fill="#4990E2" cx="21.1211706" cy="18.1855524" rx="12.3432059" ry="12.5254958"></ellipse>
+                        <path d="M29.9525021,17.1278651 C29.9525021,16.4571329 29.4162428,15.9129539 28.7552721,15.9129539 L23.5672757,15.9129539 L23.5672757,10.6483389 C23.5672757,9.97760672 23.0310165,9.43342776 22.3700458,9.43342776 L19.9755859,9.43342776 C19.3146152,9.43342776 18.778356,9.97760672 18.778356,10.6483389 L18.778356,15.9129539 L13.5903596,15.9129539 C12.9293889,15.9129539 12.3931296,16.4571329 12.3931296,17.1278651 L12.3931296,19.5576874 C12.3931296,20.2284196 12.9293889,20.7725985 13.5903596,20.7725985 L18.778356,20.7725985 L18.778356,26.0372135 C18.778356,26.7079457 19.3146152,27.2521246 19.9755859,27.2521246 L22.3700458,27.2521246 C23.0310165,27.2521246 23.5672757,26.7079457 23.5672757,26.0372135 L23.5672757,20.7725985 L28.7552721,20.7725985 C29.4162428,20.7725985 29.9525021,20.2284196 29.9525021,19.5576874 L29.9525021,17.1278651 Z" id="" fill="#FFFFFF"></path>
+                        <rect id="Rectangle-4-Copy" fill="#4990E2" transform="translate(6.298994, 22.745042) rotate(-18.000000) translate(-6.298994, -22.745042) " x="1.75421574" y="18.6572238" width="9.08955749" height="8.17563739"></rect>
+                        <rect id="Rectangle-4-Copy-2" fill="#4990E2" transform="translate(37.546217, 14.084844) rotate(-18.000000) translate(-37.546217, -14.084844) " x="31.9916328" y="10.3986347" width="11.1091692" height="7.37241812"></rect>
+                    </g>
+                    <text id="Hospital-Information" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="51" y="16">Hospital </tspan>
+                        <tspan x="51" y="32">Information System</tspan>
+                    </text>
+                    <text id="Version-8" font-family="ArialMT, Arial" font-size="9.6" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="52.1074084" y="48">Version 8</tspan>
+                    </text>
+                </g>
+                <text id="BIZBOX" font-family="Arial-BoldMT, Arial" font-size="9.60000038" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="50.9241379" y="9">BIZBOX</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
